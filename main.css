@@ -1,0 +1,24 @@
+.in-solidarity-with-ukraine {
+  background-image: url("/in-solidarity-with-ukraine.png");
+  height: 60px;
+  width: 90px;
+}
+
+ukr {
+  position: fixed;
+  left: 0;
+  margin-left: 20px;
+  text-align: center;
+}
+
+ukr b {
+  color: #005bbc;
+}
+
+ukr a {
+  text-decoration: none;
+  color: #fed500;
+  line-height: 30px;
+  font-size: 13.5pt;
+  font-weight: bold;
+}
